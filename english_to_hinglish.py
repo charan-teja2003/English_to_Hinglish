@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1Pxo-aRbdtkJJ-NqUcsOjw1ceBMnMKGGt
 """
 
-pip install transformers
-
 !pip install -qU \
   transformers \
   sentence-transformers\
@@ -20,9 +18,6 @@ pip install transformers
 
 from transformers import pipeline
 
-!pip install sentencepiece
-
-!pip install transformers[sentencepiece]
 
 # Create a translation pipeline for English to Hindi
 translator = pipeline("translation", model="Helsinki-NLP/opus-mt-en-hi")
