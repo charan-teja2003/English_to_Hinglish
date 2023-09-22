@@ -1,0 +1,15 @@
+Input 1: Definitely share your feedback in the comment section
+
+Output 1:  comment section में आपकी feedback को निश्‍चित ही साझा करें
+
+
+
+Input 2: So even if it's a big video, I will clearly mention all the products
+
+Output 2:  तो यह एक बड़ा video है, तो भी मैं स्पष्ट रूप से सभी products का उल्लेख करेंगे
+
+
+
+Input 3:  I was waiting for my bag
+
+Output 3: मैं अपने bag के लिए इंतजार कर रहा था
