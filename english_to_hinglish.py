@@ -7,15 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1Pxo-aRbdtkJJ-NqUcsOjw1ceBMnMKGGt
 """
 
-!pip install -qU \
-  transformers \
-  sentence-transformers\
-  accelerate\
-  einops \
-  langchain \
-  xformers \
-  bitsandbytes
-
 from transformers import pipeline
 
 
