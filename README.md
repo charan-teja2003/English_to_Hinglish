@@ -7,7 +7,7 @@ It retains certain English words while converting the rest to Hinglish, making i
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/charan-teja2003/english-to-hinglish.git
+git clone  https://github.com/charan-teja2003/English_to_Hinglish.git
 
 
 2. Install the required dependencies:
