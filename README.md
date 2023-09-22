@@ -22,7 +22,9 @@ git clone  https://github.com/charan-teja2003/English_to_Hinglish.git
 
 3. Run the translator script:
 
-python English_to_Hinglish.py
+%cd English_to_Hinglish
+
+!python /content/English_to_Hinglish/english_to_hinglish.py
 
 
 4. Input English text, and the script will generate the corresponding Hinglish translation.
