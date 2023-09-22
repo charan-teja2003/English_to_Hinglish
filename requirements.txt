@@ -1,0 +1,8 @@
+!pip install -qU \
+  transformers \
+  sentence-transformers\
+  accelerate\
+  einops \
+  langchain \
+  xformers \
+  bitsandbytes
