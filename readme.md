@@ -2,7 +2,7 @@
 
 ## **How to Use This Code**
 
-###**1. Upload Your Image:**
+### **1. Upload Your Image:**
 
 * Place your image file in the same directory as this script or provide the full path to the image file in the `image_path` variable.
 
